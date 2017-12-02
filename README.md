@@ -1,4 +1,4 @@
-<h1>Caroake Machine</h1> 
+<h1>Karoake Machine</h1> 
 
 <p><h3>This is <cite>a console applicaation<cite> written in C#.</h3>
 The application works like this:<br/>
